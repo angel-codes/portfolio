@@ -20,7 +20,7 @@ const NotFoundPage = () => (
               to="/"
               className="mt-4 px-4 py-2 hover:text-light-primary font-medium hover:bg-dark-primary bg-transparent border-2 border-dark-primary uppercase transition-colors duration-300 ease-in-out"
             >
-              Back to Home Page
+              Back to Home
             </Link>
           </main>
           <div className="col-span-2 md:col-span-1">
